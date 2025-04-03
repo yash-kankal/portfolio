@@ -90,7 +90,7 @@ export const projects = [
     id: 3,
     title: "AI Health Chatbot",
     des: "An AI chatbot which answers your queries regarding health, food, neutrition.",
-    img: "/Healthbot.png",
+    img: "/HealthBot.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
     link: "/ui.aiimg.com",
   },
