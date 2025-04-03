@@ -36,7 +36,7 @@ const Hero = () => {
           
           {/* Centered Logo */}
           <div className="flex justify-center items-center mb-15">
-            <h1 className="text-5xl md:text-7xl font-bold">
+            <h1 className="text-4xl sm:text-5xl md:text-7xl font-bold flex flex-wrap justify-center">
               <span className="text-orange-500">&lt;</span>
               <span className="text-white">Yash Kankal</span>
               <span className="text-orange-500">/&gt;</span>
