@@ -87,7 +87,7 @@ export const BentoGridItem: React.FC<BentoGridItemProps> = ({
 
   const handleCopy = () => {
     if (typeof navigator !== 'undefined') {
-      const text = "hsu@jsmastery.pro";
+      const text = "ykankal@asu.edu";
       navigator.clipboard.writeText(text);
       setCopied(true);
     }
