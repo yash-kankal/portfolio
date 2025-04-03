@@ -1,6 +1,7 @@
 "use client";
 
 import React from "react";
+import Image from 'next/image';
 import { companies } from "@/data";
 
 const Clients = () => {
@@ -15,7 +16,13 @@ const Clients = () => {
           {companies.map((company) => (
             <React.Fragment key={company.id}>
               <div className="flex md:max-w-60 max-w-32 gap-2">
-                <img src={company.img} alt={company.name} className="md:w-10 w-5" />
+                <Image 
+                  src={company.img} 
+                  alt={company.name} 
+                  width={40}
+                  height={40}
+                  className="md:w-10 w-5" 
+                />
               </div>
             </React.Fragment>
           ))}
