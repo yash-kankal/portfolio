@@ -84,7 +84,7 @@ export const projects = [
     des: "Find movie ratings for thousands of multi-lingual movies quickly.",
     img: "/Movies.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "/ui.yoom.com",
+    link: "https://snyder-three.vercel.app/",
   },
   {
     id: 3,
