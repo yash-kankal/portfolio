@@ -160,7 +160,7 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Full Stack Web Developer",
+    title: "Full-Stack Developer",
     desc: "Assisted in the development of a web-based platform using React.js, MongoDB, Node.js, Express.js.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
