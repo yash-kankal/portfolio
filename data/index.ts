@@ -76,7 +76,7 @@ export const projects = [
     des: "A platform for sharing/streaming videos with your friends and family.",
     img: "/ASUtube.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/ui.earth.com",
+    link: "https://asutube.vercel.app/",
   },
   {
     id: 2,
